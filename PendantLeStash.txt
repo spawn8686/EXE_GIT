@@ -1,0 +1,5 @@
+j'ai du faire un stash du fichier test.txt
+pour ensuite créer ce fichier la
+ce qui signifie que le commit de ce fichier
+ne comportera pas les modifications faire sur test.txt
+que j'avais pourtant entamé avant
