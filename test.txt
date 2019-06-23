@@ -2,3 +2,18 @@ text 1 de la branche master
 text 2 de la branche branch1
 text 3 de la branche master
 text 3 de la branche branch1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+première parti écrite mise en stash
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+je suis passé en mode insertion avec la touche i
+puis je quitte le mode insertion avec la touche esc
+enfin, pour sauvegarder et quitter, je fais :x et enter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Seconde partie écrite après la restauration du stash
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+le fichier PendantLeStash.txt à été créé et édité entre ces 2
+parties, puis commité
+Ensuite j'ai effectué un stash pop pour restaurer la première partie
+puis édité la deuxième
+seulement maintenant je vais pouvoir commité ce fichier
