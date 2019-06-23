@@ -17,3 +17,5 @@ parties, puis commité
 Ensuite j'ai effectué un stash pop pour restaurer la première partie
 puis édité la deuxième
 seulement maintenant je vais pouvoir commité ce fichier
+Cette ligne est créée alors que le fichier est stashé
+ceci devrait donc apparaitre avant la troisième partie
